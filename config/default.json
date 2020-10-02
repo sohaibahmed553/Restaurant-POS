@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://sohaibahmed553:sohaib123@dannyspos.9xgew.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "mongoURI": "mongodb+srv://sohaib553:sohaib123@restaurant-pos.h2wda.mongodb.net/<dbname>?retryWrites=true&w=majority",
     "jwtSecret": "mysecrettoken"
 }
